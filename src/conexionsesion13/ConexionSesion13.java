@@ -22,7 +22,12 @@ public class ConexionSesion13 {
         System.out.println("Avellaneda está presente y me pusieron 0");
         System.out.println("Tinoco está presente :)");
         System.out.println("Anghy Velasquez esta presente :)");
+
+        System.out.println("Vivanco esta presente xD :)");
+        
+
         System.out.println("Michael esta presenteeeeee");
+
 
     }
     
