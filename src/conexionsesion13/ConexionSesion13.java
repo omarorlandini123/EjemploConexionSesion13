@@ -19,6 +19,11 @@ public class ConexionSesion13 {
         System.out.println("Yo tambien estoy en git :D");
         System.out.println("Asenjo está presente :)");
         System.out.println("Rivera está presente :)");
+        System.out.println("Avellaneda está presente y me pusieron 0");
+        System.out.println("Tinoco está presente :)");
+        System.out.println("Anghy Velasquez esta presente :)");
+        System.out.println("Michael esta presenteeeeee");
+
     }
     
 }
